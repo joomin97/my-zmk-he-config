@@ -1,4 +1,4 @@
 # Copyright (c) 2025 Joomin97
 # SPDX-License-Identifier: MIT
 
-CONFIG_ZMK_SHIELD_HALLSPLIT64=y
+CONFIG_SHIELD_HALLSPLIT64=y
