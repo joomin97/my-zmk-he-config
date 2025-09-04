@@ -1,1 +1,1 @@
-config ZMK_SHIEDL_HALLSPLIT64 def_bool $(shields_list_contains,hallsplit64)
+config ZMK_SHIELD_HALLSPLIT64 def_bool $(shields_list_contains,hallsplit64)
