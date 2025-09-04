@@ -1,3 +1,4 @@
-CONFIG_ZMK_SHIELD_hallsplit64
-    def_bool $(shields_list_contains,hallsplit64)
+# boards/shields/hallsplit64/Kconfig
 
+config ZMK_SHIELD_HALLSPLIT64 # 이 부분이 'CONFIG_ZMK_SHIELD_hallsplit64'여야 합니다.
+    def_bool $(shields_list_contains,hallsplit64)
